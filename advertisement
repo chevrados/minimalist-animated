@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chevrados | Minimalist Animated Ads</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #111;
+            color: white;
+            padding: 2rem 1rem;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+
+        header p {
+            font-size: 1.2rem;
+            margin-top: 0.5rem;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 1rem;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        .hero {
+            text-align: center;
+            padding: 2rem 1rem;
+        }
+
+        .hero h2 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+        }
+
+        .hero p {
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+        }
+
+        .cta-button {
+            display: inline-block;
+            padding: 1rem 2rem;
+            background-color: #25D366;
+            color: white;
+            text-decoration: none;
+            font-size: 1.1rem;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .cta-button:hover {
+            background-color: #128C7E;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1rem;
+            margin-top: 2rem;
+            background-color: #eee;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Chevrados</h1>
+        <p>Minimalist Animated Advertising Under 20 Seconds</p>
+    </header>
+
+    <div class="container">
+        <div class="hero">
+            <h2>Create a Short & Impactful Ad Video</h2>
+            <p>We specialize in creating clean, modern, and engaging animated advertisement videos under 20 seconds — perfect for social media marketing, product promotion, or brand storytelling.</p>
+            <a href="https://wa.me/601173012023?text=Hi%20I'm%20interested%20to%20make%20advertisement%20video%20with%20Chevrados"
+               class="cta-button" target="_blank">
+                Order Now via WhatsApp
+            </a>
+        </div>
+    </div>
+
+    <footer>
+        &copy; 2025 Chevrados. All rights reserved.
+    </footer>
+
+</body>
+</html>
